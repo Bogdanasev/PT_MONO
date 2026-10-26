@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'pt';
+    src: url('../fonts/PTMONO.regular.ttf');
+    font-weight: 400 ;
+    font-style: normal;
+ font-display: swap;
+}
+@font-face {
+    font-family: 'PT MONO';
+    src: url('../fonts/PTMONO.bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+ font-display: swap;
+}
+@font-face {
+    font-family: 'PT SANS';
+    src: url(../fonts/PTSANS.ttf);
+font-weight:400;
+font-style: normal;
+font-display: swap;
+
+}
