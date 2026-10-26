@@ -4,11 +4,11 @@
 
 ## Ссылка на сайт
 
-[https://ваш-логин.github.io/название-репозитория/]
+[https://bogdanasev.github.io/PT_MONO/]
 
 ## Скриншот
 
-![Главная страница](images/screenshot.png)
+![Главная страница](images/skrinshot.png)
 
 ## Автор
 
