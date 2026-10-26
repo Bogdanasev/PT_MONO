@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 310">
+  <!-- ветка -->
+  <path fill="#5C3702" d="M15 62 L200 18 L608 48 L683 122 L595 66 L272 42 L440 132 L470 150 L576 186 L470 165 L420 152 L215 70 L165 78 L18 128 Z"/>
+  <!-- улей: слои снизу вверх -->
+  <g>
+    <ellipse cx="445" cy="288" rx="45" ry="11" fill="#FFAA00"/>
+    <ellipse cx="443" cy="276" rx="60" ry="14" fill="#FFE10A"/>
+    <ellipse cx="446" cy="262" rx="70" ry="16" fill="#FFAA00"/>
+    <ellipse cx="442" cy="247" rx="80" ry="18" fill="#FFE10A"/>
+    <ellipse cx="447" cy="230" rx="86" ry="19" fill="#FFAA00"/>
+    <ellipse cx="441" cy="213" rx="90" ry="19" fill="#FFE10A"/>
+    <ellipse cx="447" cy="196" rx="90" ry="19" fill="#FFAA00"/>
+    <ellipse cx="441" cy="179" rx="88" ry="19" fill="#FFE10A"/>
+    <ellipse cx="447" cy="160" rx="76" ry="19" fill="#FFAA00"/>
+    <ellipse cx="444" cy="143" rx="58" ry="17" fill="#FFE10A"/>
+  </g>
+  <!-- леток -->
+  <ellipse cx="448" cy="220" rx="36" ry="42" fill="#5C3702"/>
+  <ellipse cx="440" cy="220" rx="26" ry="38" fill="#3F2200"/>
+  <!-- стрелка-крылышко -->
+  <path fill="#DADADA" d="M400 166 L408 188 L386 192 L432 216 Z"/>
+</svg>
